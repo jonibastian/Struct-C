@@ -1,0 +1,2 @@
+# Struct-C
+ADT Struct
